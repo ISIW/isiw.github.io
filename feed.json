@@ -1,0 +1,71 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Institute for the Study of Insurgent Warfare",
+    "description": "",
+    "home_page_url": "https://isiw.github.io",
+    "feed_url": "https://isiw.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ISIW"
+    },
+    "items": [
+        {
+            "id": "https://isiw.github.io/conversations.html",
+            "url": "https://isiw.github.io/conversations.html",
+            "title": "Conversations",
+            "image": "https://isiw.github.io/media/posts/4/radioDial.jpg",
+            "author": {
+                "name": "ISIW"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-06T15:51:13-04:00",
+            "date_modified": "2024-08-06T15:51:13-04:00"
+        },
+        {
+            "id": "https://isiw.github.io/insurgent-library.html",
+            "url": "https://isiw.github.io/insurgent-library.html",
+            "title": "Insurgent Library",
+            "summary": "Insurgent Library is a collection of texts curated by members of ISIW. To get us started, here are links to the work that&hellip;",
+            "content_html": "<p>Insurgent Library is a collection of texts curated by members of ISIW. </p>\n<p>To get us started, here are links to the work that we previously released, as well as work released by members of the collective.</p>",
+            "image": "https://isiw.github.io/media/posts/3/library2.jpeg",
+            "author": {
+                "name": "ISIW"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-06T15:44:56-04:00",
+            "date_modified": "2024-08-06T15:47:31-04:00"
+        },
+        {
+            "id": "https://isiw.github.io/coming-soon.html",
+            "url": "https://isiw.github.io/coming-soon.html",
+            "title": "Coming Soon",
+            "summary": "After a long hiaitus the Institute for the Study of Insurgent Warfare is returning. For those of you that are too new to&hellip;",
+            "content_html": "<p>After a long hiaitus the Institute for the Study of Insurgent Warfare is returning. For those of you that are too new to remember, back in the day, in the 2014-2018 era, ISIW was a collective that specialized in tactical and strategic analysis of asymmetric conflicts. Our intention was to shift discourse in anarchist circles away from symbolic activism and utopian dreams and into one of material conflict against the state.</p>\n<p>This required a major change in the way that actions were conceived, how collectives and affinity groups were built, and, ultimately, in how we approached our work as anarchists. Over the past series of years, since Charlottesville, we have really seen that shift happen.</p>\n<p>As a collective we got older, some of us went off to fight in places around the world, and at least one of our friends did not come home. We have been quietly engaged in our local scenes, working on projects as wide ranging as squats to massive online anarchist media projects (which many of you have likely engaged with). After many years, though, it seems as if there is a need for us to return.</p>\n<p>Since 2020 we have really seen a revival of the old liberal activist movements. Some of this took the form of a sort of liberal anti-fascism, which was comfortable with authoritarian Marxists and which focused largely on calling people out online (rather than addressing the centrality of racism to the American political project). Some of this has shown up in the re-emergence of groups like ANSWER, a front group for the PSL, and the drive of so much of the evergy around Gaza into the deadend of reform and negotiation. Don't even get us started on this whole election thing, and the sense that liberals have that the \"institutions\" will save us.</p>\n<p>We have seen the absurdities of \"left unity\" discourse open the doors to toxic and destructive elements all competing for power in political spaces. This, of course, comes along with a certain sort of reductionist politics, centered on abstract \"revolutions\" and their connected naive utopias.</p>\n<p>So, we are coming back, but in a slightly different form. In the past our primary projects were publishing long form tactical analysis on kinetic asymmetric conflicts, with a specific focus on Syria, and editing Insurgencies, a journal released along with LBC Press. Since this time the needs have changed, and so will our focus. </p>\n<p>We will be focusing our energy on the following projects going forward:</p>\n<h3>Insurgent Library</h3>\n<h4>New Publication</h4>\n<p>We are going to be soliciting pieces for publication. Specifically we are looking for pieces related to tactical/strategic analysis of material actions, operational security, tactics/strategic theory, interesting technical articles (keep them legal please!), and theory pieces. All publication will be done online, and will be released in readable and printable formats, with possible physical copies being made if there is interest.</p>\n<h4>Republication</h4>\n<p>So much of the groundbreaking theory work, specifically related to insurrectionism, has been slowly getting lost with time. Many of these pieces were released in paper zines, maybe on a blog or in a magazine; but many are no longer available. Where these pieces are available they are often presented along side a mountain of other material, and often without context.</p>\n<p>We will be curating a series of republications, with a focus on pieces that were released in the 1970s-2014. These pieces will be presented in a newly laid out format with original supplementary material added. This is essential for the preservation of generational knowledge.</p>\n<h4>Insurgencies</h4>\n<p>Insurgencies will be returning as an online journal publication (of course with a printable format) once per year. We are hoping to launch this as soon as we really get going. Anyone with interesting tactical or strategic analysis, from an anarchist perspective, please send it our way.</p>\n<p>We are going to be taking submissions for publication at isiwarfare@protonmail.com </p>\n<h3>Conversations</h3>\n<p>Another way that we lose generational knowledge is through repression, and the subsequent denial of our stories. We all know that operational security is paramount to building resilient fighting communities. But, along with good opsec comes silence, mistrust, and the inability to pass along lessons.</p>\n<p>In talking to older radicals one of the things many of them lament is the absence of their stories being able to be passed along. We keep hearing, \"we'll tell everyone when everyone else is dead\"; this is a direct result of the repression inherent in the counter-terrorism state. We cannot allow this to lead to us losing these stories, so they have to be told somehow.</p>\n<p>Conversations will be a monthly podcast where we sit down with old grizzled anarchists, community elders, veteran forest defenders, and long time frontliners to talk about the lessons they have learned over the years, and the hopes that they have for anarchism going forward.</p>\n<p> </p>",
+            "image": "https://isiw.github.io/media/posts/2/gasMask2.jpeg",
+            "author": {
+                "name": "ISIW"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-06T15:33:32-04:00",
+            "date_modified": "2024-08-06T15:58:11-04:00"
+        },
+        {
+            "id": "https://isiw.github.io/about.html",
+            "url": "https://isiw.github.io/about.html",
+            "title": "About",
+            "summary": "The Institute for the Study of Insurgent Warfare is an anarchist think tank focused on analyzing the strategies and tactics of asymmetric conflict.&nbsp;&hellip;",
+            "content_html": "\n  <p>\n    The Institute for the Study of Insurgent Warfare is an anarchist think tank focused on analyzing the strategies and tactics of asymmetric conflict.&nbsp;\n  </p>\n\n  <p>\n    isiwarfare@protonmail.com\n  </p>",
+            "image": "https://isiw.github.io/media/posts/1/newLogo.png",
+            "author": {
+                "name": "ISIW"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-06T14:50:59-04:00",
+            "date_modified": "2024-08-06T15:57:56-04:00"
+        }
+    ]
+}

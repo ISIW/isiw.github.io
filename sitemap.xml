@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://isiw.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://isiw.github.io/</loc>
+</url>
+<url>
+<loc>https://isiw.github.io/about.html</loc>
+<lastmod>2024-08-06T15:57:56-04:00</lastmod>
+<image:image>
+<image:loc>https://isiw.github.io/media/posts/1/newLogo.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://isiw.github.io/coming-soon.html</loc>
+<lastmod>2024-08-06T15:58:11-04:00</lastmod>
+<image:image>
+<image:loc>https://isiw.github.io/media/posts/2/gasMask2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://isiw.github.io/conversations.html</loc>
+<lastmod>2024-08-06T15:51:13-04:00</lastmod>
+<image:image>
+<image:loc>https://isiw.github.io/media/posts/4/radioDial.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://isiw.github.io/insurgent-library.html</loc>
+<lastmod>2024-08-06T15:47:31-04:00</lastmod>
+<image:image>
+<image:loc>https://isiw.github.io/media/posts/3/library2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
